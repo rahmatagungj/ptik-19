@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.38b2f927.chunk.css",
-    "main.js": "/static/js/main.fa7b4638.chunk.js",
-    "main.js.map": "/static/js/main.fa7b4638.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7f22e680.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7f22e680.js.map",
-    "static/js/2.4afebc93.chunk.js": "/static/js/2.4afebc93.chunk.js",
-    "static/js/2.4afebc93.chunk.js.map": "/static/js/2.4afebc93.chunk.js.map",
-    "static/js/3.56bfdd8c.chunk.js": "/static/js/3.56bfdd8c.chunk.js",
-    "static/js/3.56bfdd8c.chunk.js.map": "/static/js/3.56bfdd8c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.38b2f927.chunk.css.map": "/static/css/main.38b2f927.chunk.css.map",
-    "static/js/2.4afebc93.chunk.js.LICENSE.txt": "/static/js/2.4afebc93.chunk.js.LICENSE.txt"
+    "main.css": "/ptik-19/static/css/main.38b2f927.chunk.css",
+    "main.js": "/ptik-19/static/js/main.fa7b4638.chunk.js",
+    "main.js.map": "/ptik-19/static/js/main.fa7b4638.chunk.js.map",
+    "runtime-main.js": "/ptik-19/static/js/runtime-main.edd691e9.js",
+    "runtime-main.js.map": "/ptik-19/static/js/runtime-main.edd691e9.js.map",
+    "static/js/2.4afebc93.chunk.js": "/ptik-19/static/js/2.4afebc93.chunk.js",
+    "static/js/2.4afebc93.chunk.js.map": "/ptik-19/static/js/2.4afebc93.chunk.js.map",
+    "static/js/3.56bfdd8c.chunk.js": "/ptik-19/static/js/3.56bfdd8c.chunk.js",
+    "static/js/3.56bfdd8c.chunk.js.map": "/ptik-19/static/js/3.56bfdd8c.chunk.js.map",
+    "index.html": "/ptik-19/index.html",
+    "static/css/main.38b2f927.chunk.css.map": "/ptik-19/static/css/main.38b2f927.chunk.css.map",
+    "static/js/2.4afebc93.chunk.js.LICENSE.txt": "/ptik-19/static/js/2.4afebc93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f22e680.js",
+    "static/js/runtime-main.edd691e9.js",
     "static/js/2.4afebc93.chunk.js",
     "static/css/main.38b2f927.chunk.css",
     "static/js/main.fa7b4638.chunk.js"

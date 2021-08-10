@@ -2,6 +2,7 @@
   "name": "ptik-19",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rahmatagungj.github.io/ptik-19",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
